@@ -20,8 +20,8 @@
       "name": "XLab, Aarhus university",
       "position": "Maker space student assistent",
       "url": "https://mpe.au.dk/om-instituttet/laboratorier-og-vaerksteder-paa-institut-for-mekanik-og-produktion/xlab-paa-institut-for-mekanik-og-produktion",
-      "startDate": "02-2022",
-      "endDate": "07-2024",
+      "startDate": "2022-02",
+      "endDate": "2024-07",
       "summary": "Maintenance of machines, cleanup and organization, as well as instructing of users in Xlab",
       "highlights": ["3D-Printing","Laser cutting","Teaching"]
     },
@@ -29,8 +29,8 @@
       "name": "Esvagt ",
       "position": "Able seaman / Boatswain",
       "url": "https://esvagt.com/",
-      "startDate": "01-2018",
-      "endDate": "07-2020",
+      "startDate": "2018-01",
+      "endDate": "2020-07",
       "summary": "Working as a Able seaman aboard Esvagt Faraday, working in the offshore wind industry.",
       "highlights": ["W2W","Maintenance","Crane operations","Boat operations"]
     },
@@ -38,8 +38,8 @@
       "name": "Esvagt ",
       "position": "Ordinary Seaman",
       "url": "https://esvagt.com/",
-      "startDate": "11-2014",
-      "endDate": "08-2017",
+      "startDate": "2014-11",
+      "endDate": "2017-08",
       "summary": "Working as a OS aboard Esvagt Faraday, working in the offshore wind industry.",
       "highlights": ["W2W","Maintenance","Crane operations","Boat operations"]
     }
@@ -51,16 +51,16 @@
       "url": "https://www.uzh.ch/",
       "area": "Mechanical Engineering",
       "studyType": "Bachelor of Engineering in Mechanical Engineering",
-      "startDate": "01-2021",
-      "endDate": "07-2024"
+      "startDate": "2021-01",
+      "endDate": "2024-07"
     },
     {
       "institution": "Martec",
       "location": "Fredrikshavn, Denmark",
       "url": "https://www.martec.dk/",
       "area": "Able seaman / Boatswain",
-      "startDate": "08-2017",
-      "endDate": "07-2018"
+      "startDate": "2017-08",
+      "endDate": "2018-07"
     }
   ],
   "certificates": [
