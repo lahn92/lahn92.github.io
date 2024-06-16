@@ -7,7 +7,7 @@ subtitle: Mechanical enigineer, Maker, Scuba diver, Husbond and Father.
 profile:
   align: right
   image: profilePicture.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Aarhus</p>
     <p>Denmark</p>
