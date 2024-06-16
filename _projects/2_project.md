@@ -6,6 +6,7 @@ img: assets/img/2_project/1.jpg
 importance: 1
 category: Fun
 related_publications: false
+date: 2024-06-12
 ---
 
 #### WORK IN PROGRESS

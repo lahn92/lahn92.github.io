@@ -6,6 +6,7 @@ img: assets/img/brandingIron/1.jpg
 importance: 1
 category: Fun
 related_publications: false
+date: 2024-06-10
 ---
 
 <div class="row">
