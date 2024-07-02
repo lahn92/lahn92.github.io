@@ -13,6 +13,7 @@ toc:
 ---
 
 <h3>Introduction</h3>
+This robot is a 3RPS parallel manipulator platfrom, The platfrom has 3 degrees of freedom with a spherical  joint, allowing the platform to be angle in any direction. The project takes heavy inspiration from the ball balancer project from [Aaed Musa ](https://www.aaedmusa.com/projects/project-three-sng7y-gaslp) 
 
 <h3>Mechanics</h3>
 
