@@ -7,6 +7,16 @@ importance: 1
 category: Fun
 related_publications: false
 date: 2024-06-16
+toc:
+  sidebar: left
+
 ---
 
-#### WORK IN PROGRESS
+<h3>Introduction</h3>
+
+<h3>Mechanics</h3>
+
+<h3>Electronics</h3>
+
+<h3>Software</h3>
+
