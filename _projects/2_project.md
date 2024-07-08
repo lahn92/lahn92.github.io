@@ -16,12 +16,12 @@ toc:
 This robot is a 3RPS parallel manipulator platform. The platform has 3 degrees of freedom with a spherical joint, allowing the platform to be angled in any direction. The project takes heavy inspiration from the ball balancer project by [Aaed Musa](https://www.aaedmusa.com/projects/project-three-sng7y-gaslp). The project was started in late summer of 2023, with the intention of bringing it to the Aarhus Maker Faire as an exhibition for the Open Space Aarhus stand.
 <h3>Mechanics</h3>
 The mechanical linkage of each of the three arms consists of two different links: Link A, which connects to the shaft of the stepper motor and has a pin joint connection with Link B, which further connects to the platform with a ball joint. The original intention was that both joints would be CNC-machined out of aluminum, with the CNC-machining done on a Pocket NC 5-axis mill. However, Link B was too long for the travel of this machine, and as such, the design of Link B was changed to consist of a piece of carbon fiber pipe, with machined endcaps for the two joints. Other parts, such as the platform, main body, and casing, were 3D-printed.
-<div class="row">
-    <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2_project/2.jpg" title="Link A" class="img-fluid rounded z-depth-1" %}
+<div class="row custom-row">
+    <div class="col-sm mt-3 mt-md-0 custom-col">
+        {% include figure.liquid loading="eager" path="assets/img/2_project/2.jpg" title="Link A" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2_project/3.jpg" title="Link B" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 custom-col">
+        {% include figure.liquid loading="eager" path="assets/img/2_project/3.jpg" title="Link B" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
 </div>
 <div class="caption">
@@ -59,3 +59,19 @@ Sadly, the touch interface broke a few days before the Aarhus Maker Faire, so th
 
 <h4>Rewrite software</h4>
 During the integration hell part of the project, I had to make significant changes to the code to get it to work, resulting in a messy code base. I would like to get this rewritten and cleaned up.
+
+<style>
+    .custom-row {
+        display: flex;
+    }
+    .custom-col {
+        flex: 1;
+        position: relative;
+        overflow: hidden;
+    }
+    .custom-img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+    }
+</style>
