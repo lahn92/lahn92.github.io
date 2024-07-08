@@ -17,17 +17,16 @@ This robot is a 3RPS parallel manipulator platform. The platform has 3 degrees o
 <h3>Mechanics</h3>
 The mechanical linkage of each of the three arms consists of two different links: Link A, which connects to the shaft of the stepper motor and has a pin joint connection with Link B, which further connects to the platform with a ball joint. The original intention was that both joints would be CNC-machined out of aluminum, with the CNC-machining done on a Pocket NC 5-axis mill. However, Link B was too long for the travel of this machine, and as such, the design of Link B was changed to consist of a piece of carbon fiber pipe, with machined endcaps for the two joints. Other parts, such as the platform, main body, and casing, were 3D-printed.
 <div class="row">
-    <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2_project/2.jpg" title="Link A" class="img-fluid rounded z-depth-1" style="height: 100%; width: 100%; object-fit: cover;" %}
-    </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2_project/3.jpg" title="Link B" class="img-fluid rounded z-depth-1" style="height: 100%; width: 100%; object-fit: cover;" %}
+        {% include figure.liquid loading="eager" path="assets/img/2_project/2.jpg" title="Link A" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2_project/3.jpg" title="Link B" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Left: Link A. Right: Link B.
 </div>
-
 
 <h3>Electronics</h3>
 The electronics consist of three 1.8-degree stepper motors, driven by a BigTreeTech TMC2209 stepper driver and a Teensy 4 microcontroller controlling it all. To provide the controller with feedback on the ball’s location, a glass 4-wire resistive touch interface is used. Two step-down converters are employed to reduce the 12V DC input to 5V and 3.3V for use by the different components.
@@ -52,7 +51,6 @@ The software uses the excellent library by Aaed Musa for the inverse kinematics.
 * Output = P + I + D - The output is essentially the most effective way to get the ball back to the center.
 
 Using the PID algorithm, the robot is constantly trying to move the ball back to the setpoint for where the ball should be. The PID algorithm is tuned by adjusting the constants kp, ki, and kd, thus changing the magnitude of each output of the PID algorithm. In total, the controller is running 2 PID algorithms, one for the X and one for the Y direction.
-
 <h3>To be done</h3>
 A small list of things still to be done:
 
