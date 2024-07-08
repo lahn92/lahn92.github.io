@@ -17,10 +17,10 @@ This robot is a 3RPS parallel manipulator platform. The platform has 3 degrees o
 <h3>Mechanics</h3>
 The mechanical linkage of each of the three arms consists of two different links: Link A, which connects to the shaft of the stepper motor and has a pin joint connection with Link B, which further connects to the platform with a ball joint. The original intention was that both joints would be CNC-machined out of aluminum, with the CNC-machining done on a Pocket NC 5-axis mill. However, Link B was too long for the travel of this machine, and as such, the design of Link B was changed to consist of a piece of carbon fiber pipe, with machined endcaps for the two joints. Other parts, such as the platform, main body, and casing, were 3D-printed.
 <div class="row custom-row">
-    <div class="col-sm mt-3 mt-md-0 custom-col">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2_project/2.jpg" title="Link A" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0 custom-col">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2_project/3.jpg" title="Link B" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
 </div>
@@ -68,10 +68,12 @@ During the integration hell part of the project, I had to make significant chang
         flex: 1;
         position: relative;
         overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
     .custom-img {
-        height: 100%;
-        width: 100%;
-        object-fit: cover;
+        max-height: 60vh; /* Set a fixed height for the images */
+        width: auto; /* Maintain the aspect ratio */
     }
 </style>
