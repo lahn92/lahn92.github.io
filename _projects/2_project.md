@@ -20,7 +20,7 @@ The mechanical linkage of each of the three arms consists of two different links
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2_project/2.jpg" title="Link A" class="img-fluid rounded z-depth-1" style="height: 100%; width: 100%; object-fit: cover;" %}
     </div>
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2_project/3.jpg" title="Link B" class="img-fluid rounded z-depth-1" style="height: 100%; width: 100%; object-fit: cover;" %}
     </div>
 </div>
