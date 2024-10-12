@@ -66,12 +66,14 @@ After that, it was mostly a matter of putting the parts in the right spots and s
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Gameboy/internals.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Gameboy/Internals.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     The assembled internals 
 </div>
+
+<h3>The results<\h3>
 
 Once the back shell was screwed down, I was left with a fully modded GameBoy Advance.
 
