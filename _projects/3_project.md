@@ -57,7 +57,7 @@ The rear bulkhead is by far the most complicated part of the DPV. It is made as 
         {% include figure.liquid loading="eager" path="assets/img/3_project/rearbulkhead1.jpg" title="Isolated rear bulkhead" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3_project/motor2.jpg" title="Cross section rearbulk head" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/3_project/rearbulkhead2.jpg" title="Cross section rearbulk head" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
 </div>
 <div class="caption">
