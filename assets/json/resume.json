@@ -5,7 +5,7 @@
     "image": "",
     "email": "Lahn92+cv@gmail.com",
     "url": "https://lahn92.github.io",
-    "summary": "bla bla bla bla",
+    "summary": "Mechanical engineer with a flair for mecahtronics, maker and life long learner.",
     "location": {
       "region": "Midtjylland",
       "countryCode": "DK"
@@ -16,6 +16,15 @@
     ]
   },
   "work": [
+    {
+      "name": "Aarhus university",
+      "position": "Mechanical engineer",
+      "url": "https://mpe.au.dk/",
+      "startDate": "2024-09",
+      "endDate": "present",
+      "summary": "Designing and building specialty research equipment for climate and biodiversity research",
+      "highlights": ["Project mangement","requirements and specifications","Mechanical design","electrical design","mecahtronics","embedded software","autonomous and remotly operated systems"]
+    },
     {
       "name": "XLab, Aarhus university",
       "position": "Maker space student assistent",

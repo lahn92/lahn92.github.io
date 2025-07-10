@@ -22,4 +22,4 @@ Beyond my professional work, I am an avid maker, always experimenting with new t
 
 I am also a certified scuba diver and use scuba diving as a way to be social, relax, and refocus my mind.
 
-Feel free to explore my [projects,](/al-folio/projects/) and get a glimpse into the work that excites me. From school and work-related projects to personal creations, this site is a reflection of my journey as an engineer, maker, and lifelong learner.
+Feel free to explore my [projects,](/projects/) and get a glimpse into the work that excites me. From school and work-related projects to personal creations, this site is a reflection of my journey as an engineer, maker, and lifelong learner.
