@@ -13,7 +13,7 @@ toc:
 ---
 
 <h3>Introduction</h3>
-This robot is a 3RPS parallel manipulator platform. The platform has 3 degrees of freedom with a spherical joint, allowing the platform to be angled in any direction. The project takes heavy inspiration from the ball balancer project by [Aaed Musa](https://www.aaedmusa.com/projects/project-three-sng7y-gaslp). The project was started in late summer of 2023, with the intention of bringing it to the Aarhus Maker Faire as an exhibition for the Open Space Aarhus stand.
+This robot is a 3RPS parallel manipulator platform. The platform has 3 degrees of freedom with a spherical joint, allowing the platform to be angled in any direction. The project takes heavy inspiration from the ball balancer project by [Aaed Musa](https://www.aaedmusa.com/projects/ball-balancer). The project was started in late summer of 2023, with the intention of bringing it to the Aarhus Maker Faire as an exhibition for the Open Space Aarhus stand.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2_project/1.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
