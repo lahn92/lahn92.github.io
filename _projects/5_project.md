@@ -2,7 +2,7 @@
 layout: page
 title: VOCAB
 description: Volatile Organic Compounds Autonomous Boat
-img: assets/img/Gameboy/new.jpg
+img: assets/img/vocab/1.jpg
 importance: 1
 category: Work
 related_publications: false
@@ -15,7 +15,7 @@ toc:
 This project was developed as part of my work at Aarhus University. It began as a student project, which our department took over after its initial completion. Our work focused on finalizing the project—some subsystems needed to be built from scratch, while others required fine-tuning. The boat will be used in climate research to measure the diffusion of VOCs from the surface of the ocean to the atmosphere.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Gameboy/old.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vocab/1.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
