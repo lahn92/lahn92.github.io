@@ -9,6 +9,8 @@ related_publications: false
 date: 2024-06-16
 toc:
   sidebar: left
+images:
+  lightbox2: true
 
 ---
 

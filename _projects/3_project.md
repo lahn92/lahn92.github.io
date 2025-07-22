@@ -9,6 +9,8 @@ related_publications: false
 date: 2024-06-12
 toc:
   sidebar: left
+images:
+  lightbox2: true
 ---
 
 <h3>Introduction</h3>

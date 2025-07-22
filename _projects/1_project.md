@@ -7,6 +7,8 @@ importance: 1
 category: Fun
 related_publications: false
 date: 2024-06-10
+images:
+  lightbox2: true
 ---
 
 <div class="row">
