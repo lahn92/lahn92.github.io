@@ -35,7 +35,7 @@
       {% elsif site.lazy_loading_images %}
         loading="lazy"
       {% endif %}
-      {% if site.imagemagick.enabled and not include.avoid_scaling and ext != 'svg' %}
+      {% if site.imagemagick.enabled and include.avoid_scaling != true and ext != 'svg' %}
         srcset="{% for i in site.imagemagick.widths %}{{ img_path | relative_url }}-{{ i }}.webp {{ i }}w,{% endfor %}"
         sizes="{{ include.sizes | default: '95vw' }}"
         onerror="this.onerror=null; this.removeAttribute('srcset');"
