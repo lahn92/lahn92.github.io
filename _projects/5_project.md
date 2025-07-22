@@ -18,7 +18,7 @@ images:
 This project was developed as part of my work at Aarhus University. It began as a student project, which our department took over after its initial completion. Our work focused on finalizing the project. Some subsystems needed to be built from scratch, while others required fine-tuning. The boat will be used in climate research to measure the diffusion of VOCs from the surface of the ocean to the atmosphere.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/vocab/1.jpg" lightbox=true title="Boat in water" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vocab/1.jpg" lightbox=true lightbox_group="vocab" title="Boat in water" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -51,7 +51,7 @@ The battery system as mentioned consists of four batteries. In the boat they wil
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/vocab/batteries1.jpg" lightbox=true title="batteries" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vocab/batteries1.jpg" lightbox=true lightbox_group="vocab" title="batteries" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -62,16 +62,9 @@ To allow the system to be prepared at shore before deployment with out draining 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/vocab/batteries2.jpg" lightbox=true title="switches" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/vocab/batteries2.jpg" lightbox=true lightbox_group="vocab" title="switches" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     The battery disconects mounted on the front of each hull. 
 </div>
-
-## [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/)
-
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg" /></a>
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
-<a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
-
