@@ -9,7 +9,7 @@
 >
   <picture>
     {% if include.lightbox %}
-    <a href="{{ include.path | relative_url }}" data-lightbox="image-{{ img_path | slugify }}" {% if include.title %} data-title="{{ include.title }}"{% endif %}>
+    <a href="{{ include.path | relative_url }}" data-lightbox="image-{{ include.lightbox_group | default: img_path | slugify }}" {% if include.title %} data-title="{{ include.title }}"{% endif %}>
     {% endif %}
 
     <img
