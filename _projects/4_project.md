@@ -75,7 +75,7 @@ After that, it was mostly a matter of putting the parts in the right spots and s
     The assembled internals 
 </div>
 
-<h3>The results<\h3>
+<h3>The results</h3>
 
 Once the back shell was screwed down, I was left with a fully modded GameBoy Advance.
 
