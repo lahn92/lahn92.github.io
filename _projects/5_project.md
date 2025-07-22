@@ -69,3 +69,4 @@ To allow the system to be prepared at shore before deployment with out draining 
     The battery disconects mounted on the front of each hull. 
 </div>
 
+
