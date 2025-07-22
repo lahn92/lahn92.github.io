@@ -13,7 +13,7 @@ images:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/brandingIron/2.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/brandingIron/2.jpg" lightbox=true lightbox_group="iron" title="side view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -25,13 +25,13 @@ This was a quick project, completed over two afternoons of work. The logo was ma
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/brandingIron/1.jpg" title="CNC cut logo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/brandingIron/1.jpg" title="CNC cut logo" lightbox=true lightbox_group="iron" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/brandingIron/4.jpg" title="handle interface" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/brandingIron/4.jpg" lightbox=true lightbox_group="iron" title="handle interface" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/brandingIron/3.jpg" title="handle" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/brandingIron/3.jpg" lightbox=true lightbox_group="iron" title="handle" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,7 +42,7 @@ And the only thinge left to do now was to test it
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/brandingIron/5.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/brandingIron/5.jpg" lightbox=true lightbox_group="iron" title="side view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

@@ -28,10 +28,10 @@ The nose cap is uaed as a watertight bulkhead in the from of the main body tube.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3_project/noseCap1.jpg" title="NoseCap mounted in body tube" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/3_project/noseCap1.jpg" lightbox=true lightbox_group="dpv" title="NoseCap mounted in body tube" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3_project/noseCap2.jpg" title="crosssection of nosecap" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/3_project/noseCap2.jpg" lightbox=true lightbox_group="dpv" title="crosssection of nosecap" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
 </div>
 <div class="caption">
@@ -43,10 +43,10 @@ The motor used in the DPV is a [5065 270KV BLDC motor from flipsky](https://flip
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3_project/motor1.jpg" title="Motor mounted in the DPV" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/3_project/motor1.jpg" lightbox=true lightbox_group="dpv" title="Motor mounted in the DPV" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3_project/motor2.jpg" title="Motor isolated" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/3_project/motor2.jpg" lightbox=true lightbox_group="dpv" title="Motor isolated" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
 </div>
 <div class="caption">
@@ -58,10 +58,10 @@ The rear bulkhead is by far the most complicated part of the DPV. It is made as 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3_project/rearbulkhead1.jpg" title="Isolated rear bulkhead" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/3_project/rearbulkhead1.jpg" lightbox=true lightbox_group="dpv" title="Isolated rear bulkhead" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3_project/rearBulkhead2.jpg" title="Cross section rearbulk head" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/3_project/rearBulkhead2.jpg" lightbox=true lightbox_group="dpv" title="Cross section rearbulk head" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
 </div>
 <div class="caption">
@@ -75,13 +75,13 @@ The shaft is a turned stainless steel shaft. It connects the impeller with the m
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3_project/drive1.jpg" title="Drive outside" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/3_project/drive1.jpg" lightbox=true lightbox_group="dpv"  title="Drive outside" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3_project/drive2.jpg" title="Nozzle showing stator" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/3_project/drive2.jpg" lightbox=true lightbox_group="dpv" title="Nozzle showing stator" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3_project/drive3.jpg" title="Impeller" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/3_project/drive3.jpg" lightbox=true lightbox_group="dpv" title="Impeller" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
 </div>
 <div class="caption">
@@ -93,10 +93,10 @@ To guide and control the DPV under water there is a single handel, this is only 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3_project/handel1.jpg" title="trigger" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/3_project/handel1.jpg" lightbox=true lightbox_group="dpv" title="trigger" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3_project/handel2.jpg" title="main handel" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/3_project/handel2.jpg" lightbox=true lightbox_group="dpv" title="main handel" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
 </div>
 <div class="caption">

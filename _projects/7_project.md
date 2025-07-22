@@ -18,7 +18,7 @@ This project was developed as part of my work at Aarhus University. It is a wind
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Gameboy/old.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Gameboy/old.jpg" lightbox=true lightbox_group="wind" title="side view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
