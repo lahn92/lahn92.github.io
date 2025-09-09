@@ -24,5 +24,5 @@ My Tool2DXF software takes a simple photo of a tool placed on a sheet of paper a
     </div>
 </div>
 <div class="caption">
-    The GameBoy advance running the included game.
+    Animation showing the steps of Tool2DXF
 </div>
