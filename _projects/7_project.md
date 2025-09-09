@@ -13,7 +13,7 @@ images:
   lightbox2: true
 ---
 
-<h3>Introduktion</h3>
+<h3>Introduction</h3>
 This project was developed as part of my work at Aarhus University. It is a wind tunnel designed for sampling bioaerosolization. The process involves loading a soil sample into the test section of the tunnel, where it is exposed to different wind conditions and simulated rain. The resulting aerosols are then collected using output filters. The tunnel is primarily intended for laboratory use but is constructed in a way that also allows for deployment in the field.
 
 <div class="row">

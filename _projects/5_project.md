@@ -14,7 +14,7 @@ images:
 ---
 
 
-<h3>Introduktion</h3>
+<h3>Introduction</h3>
 This project was developed as part of my work at Aarhus University. It began as a student project, which our department took over after its initial completion. Our work focused on finalizing the project. Some subsystems needed to be built from scratch, while others required fine-tuning. The boat will be used in climate research to measure the diffusion of VOCs from the surface of the ocean to the atmosphere.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

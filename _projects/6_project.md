@@ -13,7 +13,7 @@ images:
   lightbox2: true
 ---
 
-<h3>Introduktion</h3>
+<h3>Introduction</h3>
 This project was developed as part of my work at Aarhus University. It is a remote-controlled boat designed to operate near glacier fronts, where it is unsafe to deploy a manned platform. The boat is primarily intended to carry a submersible methane probe, but it can easily be retrofitted to accommodate other payloads.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

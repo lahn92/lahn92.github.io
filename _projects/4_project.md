@@ -13,7 +13,7 @@ images:
   lightbox2: true
 ---
 
-<h3>Introduktion</h3>
+<h3>Introduction</h3>
 I have long considered doing some custom modding of older GameBoys, and recently I attended a small retro console fair here in Denmark. There, I purchased an old GameBoy Advance with a Pokémon Sapphire game.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
