@@ -105,13 +105,18 @@
   ],
   "interests": [
     {
-      "name": "fun",
+      "name": "Scuba diving",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Making",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "funfun"
+        "3dprinting", "woodworking", "metalworking", "electronics"
       ]
     }
   ],
+
   "references": [
 
   ]
