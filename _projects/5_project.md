@@ -99,7 +99,7 @@ Both the top and bottom dome starts out as a blowen dome. for the top dome a sma
     Left: The mounted flange. Right: Cross section of the flange.
 </div>
 
+
 <h3>Legal requirments</h3>
-
-<h3>Software refinement</h3>
-
+A problem i encountered during the project is that a remotely operated boat, that is left without direct supervision for extended periodes of time, is in a legal grey zone in denmark. So during the project i was in contact with the danish maritime artorities.
+They help us figure out what kind of clasefication the system needed to be operated in a legal manner. The final result for this was that the vessel would be registered as a "non anchored bouy" with mesurements equiment onboard. Meaning it needed to be marked with a yellow blinking light and a yellow X. 
