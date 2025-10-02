@@ -47,7 +47,7 @@ When the project arrived in our department, the system had already been tested w
 The power system was developed together with the power system for [ARCMETIS](/projects/6_project/). This means that, other than the battery capacity, they are more or less equal. One of the risks was whether we would be able to get a battery that would allow the system to be shipped by air freight, as this would be needed if the system were to be deployed to Greenland. After talking to AirGreenland, we were told that shipping the system with the specified battery system consisting of four 12V 40Ah LiFePO₄ batteries won't be a problem. As such, the selected batteries ended up being [PQ-LFP1240A](https://actec.dk/batterier/genopladelige-batterier/lithium-jern-fosfat-lifepo4-batterier/12v-12-8v-40ah-512wh-lifepo4-paqpower-batteri)
 
 <h5>Power Wiring</h5>
-The battery system as mentioned consists of four batteries. In the boat they will be place two in each hull. In each hull the batteries will be wires in series to get a 24V system. And then the hulls are connected in parrallel. 
+The battery system as mentioned consists of four batteries. In the boat they will be placed two in each hull. In each hull the batteries will be wired in series to get a 24V system. And then the hulls are connected in parrallel, allowing each hull to power the other in case of a failure.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -71,6 +71,33 @@ To allow the system to be prepared at shore before deployment with out draining 
 
 
 <h3>Sampling Chamber</h3>
+
+The sampling chamber is a clear plastic dome mounted on the front of the boat, its used to enclose a volume of air. In to whice VOCs can difuse from the water surface in the the volume to then be sampled by the systems. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vocab/dome.jpg" lightbox=true lightbox_group="vocab" title="switches" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Picture showing the dome mounted on the boat
+</div>
+
+The dome consists of 3 pieces, one top dome with and interface flange mounted, a bottom dome the extends into the water to protected agianst water movement and finally a mounting bracket, that secures the chamber to the boat.
+<h5>Domes</h5>
+Both the top and bottom dome starts out as a blowen dome. for the top dome a smaller diameter at the top is cut out and a bolt pattern drilled to allow for the mounting of the flange, the flanges job is to give a flat surface for connections to the sampling system. the flange consists of an inner and an outer aluminum piecs that gets bolted througe the dome and sealed with viton o-rings. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vocab/flange.jpg" lightbox=true lightbox_group="robot" title="Link A" class="img-fluid rounded z-depth-1 custom-img" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/vocab/flange.jpg" lightbox=true lightbox_group="robot" title="Link B" class="img-fluid rounded z-depth-1 custom-img" %}
+    </div>
+</div>
+<div class="caption">
+    Left: The mounted flange. Right: Cross section of the flange.
+</div>
 
 <h3>Legal requirments</h3>
 
