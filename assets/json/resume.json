@@ -4,7 +4,7 @@
     "label": "Mechanical engineer",
     "image": "",
     "email": "Lahn92+cv@gmail.com",
-    "url": "https://lahn92.github.io",
+    "url": "http://lahn92.dk",
     "summary": "Mechanical engineer with a flair for mecahtronics, maker and life long learner.",
     "location": {
       "region": "Midtjylland",
@@ -21,7 +21,7 @@
       "position": "Mechanical engineer",
       "url": "https://mpe.au.dk/",
       "startDate": "2024-09",
-      "endDate": "present",
+      "endDate": "2025-10",
       "summary": "Designing and building specialty research equipment for climate and biodiversity research",
       "highlights": ["Project mangement","requirements and specifications","Mechanical design","electrical design","mecahtronics","embedded software","autonomous and remotly operated systems"]
     },
@@ -82,6 +82,13 @@
   ],
   "skills": [
     {
+      "CAD": "expert",
+      "Technical documentation": "Proficient",
+      "Python": "Intermediate",
+      "Microsoft office": "Proficient",
+      "FEM": "Proficient",
+      "CFD": "Intermediate",
+      "Mechatronics": "expert"
     }
   ],
   "languages": [
